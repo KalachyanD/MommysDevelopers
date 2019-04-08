@@ -1,0 +1,64 @@
+body {
+  background-color: #222222;
+  color: #ffffff;
+  font-family: 'Exo 2', sans-serif;
+  margin: 0;
+}
+
+.aumenu {
+  position: relative;
+  color: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  padding: 0px 100px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.inLog  {
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+}
+
+.inBut {
+  border: none;
+  background-color: #222222;
+  color: #2cce00;
+}
+
+.inBut:hover{
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  font-weight: bold;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  background-color: #222222;
+  color: #2cce00;
+  padding: 0px 15px 0px 15px;
+}
+
+li {
+  display: inline-block;
+}
+
+a:hover {
+  border-bottom: solid 1px;
+}
+
+footer {
+  font-size: 10px;
+  text-align: center;
+  padding: 100px;
+}
+
+#logP {
+  width: auto;
+}
