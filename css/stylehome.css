@@ -1,12 +1,11 @@
 body {
-  background-color: #F2F2F2;
-  color: #424242;
-  font-family: 'Exo 2', sans-serif;
-  margin: 0;
-  position: fixed; /* Фиксированное положение - fixed, absolute - абсолютное для IE */
-  left: 0; bottom: 0;
-  padding: 0px;
-  width: 99.99%;
-  opacity: 0.9; 
-  filter: alpha(Opacity=90); 
+  font-family: 'Exo 2', sans-serif; /*Устанавливает семейство шрифта */
+	position: absolute; /* Фиксированное положение - fixed, absolute - абсолютное для IE */
+  left: 0; bottom: 0; /* Левый нижний угол */
+  padding: 0px; /* Поля вокруг текста */
+  background: #F2F2F2; /* Цвет фона */
+  color: #000000; /* Цвет текста */
+  width: 99.99%; /* Ширина слоя */
+	opacity: 0.9; /* Значение прозрачности */
+  filter: alpha(Opacity=90); /* Прозрачность в IE */
 }
