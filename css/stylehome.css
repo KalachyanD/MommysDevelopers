@@ -4,6 +4,7 @@ body {
   color: #000000; /* Цвет текста */
   display: flex;
   flex-direction: column;
+  min-height: 200vh;
 }
 #table {
   overflow: hidden; /*Фиксация положения таблицы */
