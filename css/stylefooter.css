@@ -1,5 +1,5 @@
 #footer {
-		position: absolute; /* Фиксированное положение - fixed, absolute - абсолютное */
+		position: fixed; /* Фиксированное положение - fixed, absolute - абсолютное для IE */
     		left: 0; bottom: 0; /* Левый нижний угол */
     		padding: 0px; /* Поля вокруг текста */
     		background: #e9e3f8; /* Цвет фона */
