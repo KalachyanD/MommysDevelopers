@@ -11,11 +11,6 @@ body {
   width: 100%; /* Ширина слоя */
 }
 #table {
-  font-family: 'Exo 2', sans-serif; /*Устанавливает семейство шрифта */
-  background: #FAFAFA; /* Цвет фона */
-  color: #000000; /* Цвет текста */
-  position: absolute; /* Абсолютное положение положение */
-  overflow: auto; /*при превышении контентом высоты видимой области появится полоса прокрутки */
   cellpadding: 5;
   cellspacing: 5;
   width: 90%;
