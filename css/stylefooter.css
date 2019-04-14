@@ -1,10 +1,10 @@
 #footer {
 		position: absolute; /* Фиксированное положение - fixed, absolute - абсолютное */
     		left: 0; bottom: 0; /* Левый нижний угол */
-    		padding: 5px; /* Поля вокруг текста */
+    		padding: 0px; /* Поля вокруг текста */
     		background: #e9e3f8; /* Цвет фона */
     		color: #000000; /* Цвет текста */
-    		width: 100%; /* Ширина слоя */
+    		width: 90%; /* Ширина слоя */
 		opacity: 0.7; /* Значение прозрачности */
     		filter: alpha(Opacity=70); /* Прозрачность в IE */
 		}
