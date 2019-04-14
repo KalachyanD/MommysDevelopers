@@ -1,11 +1,11 @@
 body {
   font-family: 'Exo 2', sans-serif; /*Устанавливает семейство шрифта */
-	position: absolute; /* Фиксированное положение - fixed, absolute - абсолютное для IE */
+  position: absolute; /* Фиксированное положение - fixed, absolute - абсолютное для IE */
   left: 0; bottom: 0; /* Левый нижний угол */
   padding: 0px; /* Поля вокруг текста */
   background: #F2F2F2; /* Цвет фона */
   color: #000000; /* Цвет текста */
   width: 99.99%; /* Ширина слоя */
-	opacity: 0.9; /* Значение прозрачности */
+  opacity: 0.9; /* Значение прозрачности */
   filter: alpha(Opacity=90); /* Прозрачность в IE */
 }
